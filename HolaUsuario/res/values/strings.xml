@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaUsuario</string>
+    <string name="nombre">Escriba aqui su nombre:</string>
+	<string name="hola">Aceptar</string>
+</resources>
